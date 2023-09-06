@@ -123,9 +123,15 @@ footer{
         border: solid;
         width: 900px;
         margin: 150px auto;
+
     }
 
    p{
         margin-right:65px ;
    }
+
+   button{
+    margin-top: 70px;
+   }
+   
 }

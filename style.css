@@ -122,6 +122,7 @@ footer{
         flex-direction: row;
         border: solid;
         width: 900px;
+        margin: 150px auto;
     }
 
    p{

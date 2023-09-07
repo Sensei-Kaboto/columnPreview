@@ -63,7 +63,6 @@ button{
     background-color: var(--very__light__gray__buttons);
     margin: 50px;
     margin-top: 10px;
-    /* padding: 15px; */
     font-size: var(--font__size);
     font-family: var(--font-family__Lexend);
     border-radius: 30px;
